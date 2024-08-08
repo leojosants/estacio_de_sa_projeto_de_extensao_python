@@ -10,12 +10,6 @@
 
 - Permite realizar as operações CRUD (Criar, Ler, Atualizar e Deletar dados)
 
-## Vídeo de apresentação
-
-```Apresentação```
-
-https://github.com/user-attachments/assets/3d029b8d-9120-4291-a829-e6b094ab1e7a
-
 ## Telas de exibição
 
 ```Tela inicial```
@@ -45,3 +39,9 @@ https://github.com/user-attachments/assets/3d029b8d-9120-4291-a829-e6b094ab1e7a
 ```Tela Exclusão de dados```
 
 ![Tela de Cadstro](/assets/images/tela_deletar.png)
+
+## Vídeo de apresentação
+
+```Apresentação```
+
+<https://github.com/user-attachments/assets/3d029b8d-9120-4291-a829-e6b094ab1e7a>
